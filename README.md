@@ -15,8 +15,4 @@
 <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/e0c11e40-0595-11ea-bb7c-cf9c6343ca68.png" width="100" height="100" />
 <img src="https://img.icons8.com/color/344/bootstrap.png" width="100" height="100" />
 <img src="https://mui.com/static/logo.png" width="100" height="100" />
-
-  https://mui.com/static/logo.png
-
-  
 </div>
