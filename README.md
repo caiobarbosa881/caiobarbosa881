@@ -1,11 +1,12 @@
-### Hi there, I am Front end Developer
+### Hi there, I am Front end Developer    
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiobarbosa881/)
+
 ---
 
 ![My Git Hub stats](https://github-readme-stats.vercel.app/api?username=caiobarbosa881&count_private=true)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiobarbosa881&layout=compact)](https://github.com/caiobarbosa881/github-readme-stats)
 
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiobarbosa881/)
 
 <div>
 <img src="https://user-images.githubusercontent.com/54036407/162421729-c01b4782-f81a-4e44-ae74-985518c9168c.png" width="100" height="100" />
