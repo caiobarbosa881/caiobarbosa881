@@ -19,6 +19,6 @@
 />
 <img src="https://external-preview.redd.it/TjOuftRjFMwi1skRP9HXZgFn_uvUX8fY6RwitIuG5ng.jpg?auto=webp&s=8ffb36d843813ac671acc88ac3507352f779c8ad"
 " width="100" height="100" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"
  width="100" height="100" />  
 </div>                          
